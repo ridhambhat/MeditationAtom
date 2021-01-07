@@ -1,0 +1,2 @@
+rootProject.name='AtomSampleFirebaseLogin'
+include ':app'

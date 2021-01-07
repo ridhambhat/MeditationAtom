@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atom Sample Firebase Login</string>
+    <string name="googleSignIn">Continue with Google</string>
+    <string name="termsAndCondition">By creating an account you agree to our Terms of Service \u0026 Privacy Policy.</string>
+    <string name="moreMindfulYou">A more mindful you</string>
+    <string name="buildingME">building your meditation experience</string>
+    <string name="makeMeditationHabit">Make meditation a habit you love</string>
+    <string name="continueAsGuest">Continue as Guest</string>
+    <string name="noConnection">No Connection</string>
+    <string name="ensureConnectedToNet">Please ensure that you are connected to the internet</string>
+    <string name="whatYourFriendsCallYou">Hi, what do your friends call you?</string>
+    <string name="enterNickName">Enter your nick name here</string>
+    <string name="continueNext">Continue</string>
+    <string name="meditationImage">Meditation Image</string>
+    <string name="backButton">Back Button</string>
+</resources>
